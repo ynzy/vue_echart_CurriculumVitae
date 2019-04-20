@@ -24,7 +24,7 @@ export default {
       // 排行前五城市
       let myFirendCity = [
         { name: "重庆", value: ["106.55", "29.57", "9"] },
-        { name: "河北", value: ["115.47 ", "38.87", "12"] },
+        { name: "河北", value: ["115.47 ", "38.87", "20"] },
         { name: "上海", value: ["121.48", "31.22", "10"] },
         { name: "西安", value: ["108.95", "34.27", "4"] },
         { name: "北京", value: ["116.46", "39.92", "12"] }
@@ -44,7 +44,7 @@ export default {
         { name: "山西", value: 1 },
         { name: "辽宁", value: 2 },
         { name: "江苏", value: 1 },
-        { name: "河北", value: 12 },
+        { name: "河北", value: 20 },
         { name: "海南", value: 1 },
         { name: "河南", value: 1 },
         { name: "重庆", value: 9 },
