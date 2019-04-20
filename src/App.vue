@@ -66,5 +66,4 @@ body {
 .BMap_cpyCtrl, .BMap_noprint, .anchorBL {
   display: none !important;
 }
-
 </style>
